@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barathRC
-- 👀 I’m an aspiring Data Scientist 
-- 🌱 I’m wish to learn Python,R,Tableau,Qlickview,Cognos
-- 💞️ I’m looking to collaborate 
+- 👀 An aspiring Data Scientist 
+- 🌱 Wish to learn Python,R,Tableau,Qlickview,Cognos
+- 💞️ Looking to collaborate 
 - 📫 Reach me @ +91-9003233297
 
 <!---
